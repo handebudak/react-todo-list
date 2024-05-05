@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Make laundries",
+      "status": "In progress",
+      "date": "05.05.2024"
+    },
+    {
+      "id": 1,
+      "name": "Wash your teeth",
+      "status": "In progress",
+      "date": "05.05.2024"
+    },
+    {
+      "id": 2,
+      "name": "Go shopping",
+      "status": "Done",
+      "date": "04.05.2024"
+    }
+  ]
+}
